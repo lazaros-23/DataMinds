@@ -6,7 +6,9 @@
 
 
 
-## About Competition
+## About Competitio
+
+Be a part of hack OAED crowdhackathon, is an open innovation technological action and aims to activate (community activation) the innovation ecosystem, organizations and companies to create original applications that promote the digital transformation of OAED through new and innovative social and innovative ideas with social impact.
 
 
 ## Idea 
