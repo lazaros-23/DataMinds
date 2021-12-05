@@ -26,6 +26,42 @@ H DataMinds φιλοδοξεί να γίνει η μεγαλυτερη κοιν�
 Δεν μπορούν να καλύψουν την ζήτηση.
 
 
+Products and Services
+Community and Network
+Courses, Events, Meetups
+Career Consulting (CV, Αιτήσεις, Job referrals)
+
+
+Data Science Courses and Bootcamps [on-site]
+Data Analytics
+Programming
+Machine Learning, Deep Learning
+Databases
+Cloud
+
+
+(1-to-1) Consulting Sessions & Career Coaching: Personalized Consulting to kick start your career.
+Linkedin, CV, Cover letter,
+Studies, Courses
+Github, Data Science portfolio (Github, personal website, etc)
+Μελέτη αγγελιών εργασίας για τα διάφορα positions 
+
+“Lazaros Pashalidis: Your Data Science mentor”
+
+Community Building (Giving back to the community)
+DataMinds Meetup, να εμπλακούμε στα Meetup της Θεσσαλονίκης [Data Analytics, Machine Learning meetup]
+Newsletter
+Free Events [workshops, career events]
+
+On-Demand courses (Video Courses, Github repositories,)
+
+B2B consulting
+Build your data team, infrastructure, etc.
+Corporate training
+Business Transformation 
+
+
+
 
 ## Team Data Minds - Members
 
